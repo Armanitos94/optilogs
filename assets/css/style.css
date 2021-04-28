@@ -492,6 +492,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px 0 30px 0;
   font-size: 24px;
   font-weight: 400;
+  line-height: inherit;
 }
 
 #hero .btn-get-started {
@@ -606,7 +607,7 @@ section {
   font-weight: 700;
 }
 
-.section-title h3 span {
+h3 span {
   color: #106eea;
 }
 
@@ -753,7 +754,8 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 600;
-  font-size: 26px;
+  font-size: 32px;
+  font-weight: 700;
 }
 
 .about .content ul {
