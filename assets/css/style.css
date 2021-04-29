@@ -719,7 +719,7 @@ h3 span {
 }
 
 .featured-services .icon i {
-  font-size: 48px;
+  font-size: 70px;
   line-height: 1;
   color: #106eea;
   transition: all 0.3s ease-in-out;
@@ -838,6 +838,10 @@ h3 span {
   padding: 70px 0 60px;
 }
 
+.counts .section-title {
+  padding-bottom: 85px;
+}
+
 .counts .count-box {
   padding: 30px 30px 25px 30px;
   width: 100%;
@@ -848,10 +852,10 @@ h3 span {
 
 .counts .count-box i {
   position: absolute;
-  top: -28px;
+  top: -50px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 24px;
+  font-size: 43px;
   background: #106eea;
   padding: 12px;
   color: #fff;
@@ -870,7 +874,7 @@ h3 span {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /*--------------------------------------------------------------
